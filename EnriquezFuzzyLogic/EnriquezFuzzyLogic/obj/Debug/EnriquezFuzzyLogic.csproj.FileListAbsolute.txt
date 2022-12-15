@@ -1,0 +1,11 @@
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\bin\Debug\EnriquezFuzzyLogic.exe.config
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\bin\Debug\EnriquezFuzzyLogic.exe
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\bin\Debug\EnriquezFuzzyLogic.pdb
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.csproj.SuggestedBindingRedirects.cache
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.Form1.resources
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.Properties.Resources.resources
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.csproj.GenerateResource.cache
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.exe
+C:\Users\High School\Desktop\1ST SEM\CLUSTER 2\CS345 Intelligent Systems\fuzzylogic\EnriquezFuzzyLogic\EnriquezFuzzyLogic\obj\Debug\EnriquezFuzzyLogic.pdb
