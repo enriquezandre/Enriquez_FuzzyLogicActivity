@@ -52,6 +52,13 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FuzzyEngine.cs" />
+    <Compile Include="FuzzyRule.cs" />
+    <Compile Include="FuzzyRuleCollection.cs" />
+    <Compile Include="LinguisticVariable.cs" />
+    <Compile Include="LinguisticVariableCollection.cs" />
+    <Compile Include="MembershipFunction.cs" />
+    <Compile Include="MembershipFunctionCollection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
